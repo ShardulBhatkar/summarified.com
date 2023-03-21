@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow: hidden;
+}
+.header{
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 56px;
+    margin-top: 23px;
+    margin-left: 25px;
+    position: relative;
+    top: 37px;
+}
+.sub-header{
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 36px;
+    margin-left: 25px;
+    margin-top: 4px;
+    margin-right: 0;
+    position: relative;
+    top: 43px;
+}
+.book{
+    width: 158px;
+    position: absolute;
+    right: 179px;
+    top: 54px;
+}
+hr{
+    position: relative;
+    top: 118px;
+}
+#book-header{
+    position: relative;
+    top: 157px;
+    font-size: 36px;
+    left: 25px;
+    font-family: 'Ubuntu', sans-serif;
+    width: 500px;
+}
+ul{
+    position: relative;
+    top: 183px;
+    left: 90px;
+    font-size: 25px;
+    font-family: 'Ubuntu', sans-serif;
+    width: 300px;
+}
+#right-container{
+    border-left: 1px solid grey;
+    width: 500px;
+    height: 381px;
+    position: absolute;
+    right: 163px;
+    top: 251px;
+}
+#right-header{
+    position: relative;
+    top: 45px;
+    left: 25px;
+    font-size: 36px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+
+
+
